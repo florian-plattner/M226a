@@ -20,8 +20,8 @@ Das Ziel ist es ein Programm zu schreiben, welches eine möglichst schnelle Rout
 
 #### Geplant:
 
-![Klassendiagramm](https://raw.githubusercontent.com/florian-plattner/M226a/master/M226a_0.svg)
+![Klassendiagramm](M226a_0.png)
 
 #### Implementation:
 
-![Klassendiagramm](https://raw.githubusercontent.com/florian-plattner/M226a/master/M226a_0.svg)
+![Klassendiagramm](M226a_0.png)
