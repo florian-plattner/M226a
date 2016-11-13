@@ -20,8 +20,8 @@ Das Ziel ist es ein Programm zu schreiben, welches eine möglichst schnelle Rout
 
 #### Geplant:
 
-!(M226a_0.svg)
+[[M226a_0.svg]]
 
 #### Implementation:
 
-!(M226a_1.svg)
+[[M226a_1.svg]]
