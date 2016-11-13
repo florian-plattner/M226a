@@ -2,6 +2,10 @@ package program;
 
 import java.util.Scanner;
 
+/**
+ * @author Florian Plattner
+ * @version 1.0
+ */
 public class UserInterface {
     Scanner scanner;
     Analytic analytic = new Analytic();

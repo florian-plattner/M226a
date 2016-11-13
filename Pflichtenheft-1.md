@@ -16,12 +16,12 @@ Das Ziel ist es ein Programm zu schreiben, welches eine möglichst schnelle Rout
 * Es gibt keine unnötigen Outputs.
 * Outputs sollen klar beschrieben werden.
 
-### UML:
+### UML
 
 #### Geplant:
 
-![Klassendiagramm](uml/)
+![klassendiagramm](uml/M226a_a_0.png)
 
 #### Implementation:
 
-![Klassendiagramm](https://raw.githubusercontent.com/florian-plattner/M226a/master/M226a_0.svg)
+![klassendiagramm](uml/M226a_a_1.png)
